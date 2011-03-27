@@ -1,0 +1,76 @@
+
+p1 {
+  font-size: 2em;
+  font-weight: bold;
+  color: #648293;
+  margin: 40px 0px 20px;
+  text-align: center;
+}
+
+p2{
+  font-size: 2em;
+  font-weight: bold;
+  color: #3c9;
+  text-align: center;
+	}
+	
+p3{
+  font-size: 1.5em;
+  font-weight: bold;
+  color: #39c;
+  text-align: center;
+	}
+	
+p4{
+  font-size: 1em;
+  font-weight: bold;
+  color: #93c;
+  text-align: center;
+	}
+
+#rpanel {
+  position:fixed;
+  top:0px;
+  background-image:url(bg/bg.jpg);
+}
+
+.anchor {
+	display: inline-block;
+	line-height: 1;
+	padding: 7px 10px;
+	text-decoration: none;
+	font-weight: bold;
+	color: #fff;
+	background-color:#39c;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-khtml-border-radius: 5px;
+	border-radius: 5px;
+	outline:none;
+}
+
+.anchor:link { color: white; }
+.anchor:visited { color: white; } 
+.anchor:hover { color: white; background-color:#FF9933; }
+
+
+.logout {
+	display: inline-block;
+	line-height: 1;
+	padding: 7px 10px;
+	text-decoration: none;
+	font-weight: bold;
+	color: #fff;
+	background-color:#d94d4a;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-khtml-border-radius: 5px;
+	border-radius: 5px;
+	outline:none;
+}
+
+.logout:link { color: white; }
+.logout:visited { color: white; } 
+.logout:hover { color: white; background-color:#d94d4a; }
+
+@font-face { font-family:Ubuntu; src:url(font/Ubuntu-Title.ttf) }

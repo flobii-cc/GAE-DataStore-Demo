@@ -1,0 +1,2 @@
+serviceClass: co.cc.gae.client.DataStoreCom
+path: 13F061EE321836DEA210B52D216EA157.gwt.rpc

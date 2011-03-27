@@ -1,0 +1,2 @@
+serviceClass: co.cc.gae.client.GreetingService
+path: 0B64C4AC7D0FC2E6A215D872ADA554A0.gwt.rpc
